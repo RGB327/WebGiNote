@@ -12,16 +12,40 @@ type - **title** 제목글 타입으로 툴팁 표시
 **<br>** - 줄바꿈
 **&기호넘버 or 기호태그** - 특수문자(심볼) 사용 태그들 [특수문자 코드](https://dev-handbook.tistory.com/23)
 
-| 글꼴 |
+<table>
+            <caption>글꼴 꾸미기</caption>
+    <thead>
+        <tr>
+            <th>기호</th>
+        </tr>
+    </thead>
 
-|;----;|;----;|
-|  <b>         |  진하게            |
-|  <strong>    |  중요한            |
-|   <em>       |  강조             |
-|<i>           |  이탤릭으로 강조    |
-|<small>       |  작은 문자         |
-|<del>         |  가운데 삭제선       |
-|<ins>         |  밑줄              |
-|<sup>         |  윗첨자             |
-|<sub>         |  아랫첨자           |
-|<mark>        |  하이라이팅         |
+    <tbody>
+        <tr>
+            <td><b></td>
+            <td>진하게</td>
+        </tr>
+        <tr>
+            <td><strong></td>
+            <td>중요한</td>
+        </tr>
+        <tr>
+            <td><em></td>
+            <td>강조</td>
+        </tr>
+        <tr>
+            <td><i></td>
+            <td>이탤릭으로 강조</td>
+        </tr>
+        <tr>
+            <td><small></td>
+            <td>작게</td>
+        </tr>
+        <tr>
+            <td><del></td>
+            <td>삭제선</td>
+        </tr>
+    </tbody>                
+</table>
+
+     
