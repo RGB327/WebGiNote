@@ -3,6 +3,7 @@
 
 # 1일차
 **<!DOCTYPE html>** - 이 문서가 html임을 알리는 태그
+외않됨
 **<title>** - 사이트 위 타이틀을 다는 태그
 **<body>** - 문서 내용이 들어가는 공간을 나타내는 태그
 **<h1~6>** - 제목글을 나타낼 때 사용하는 코드 마크다운에서의 #과 동일
@@ -12,40 +13,10 @@ type - **title** 제목글 타입으로 툴팁 표시
 **<br>** - 줄바꿈
 **&기호넘버 or 기호태그** - 특수문자(심볼) 사용 태그들 [특수문자 코드](https://dev-handbook.tistory.com/23)
 
-<table>
-            <caption>글꼴 꾸미기</caption>
-    <thead>
-        <tr>
-            <th>기호</th>
-        </tr>
-    </thead>
-
-    <tbody>
-        <tr>
-            <td><b></td>
-            <td>진하게</td>
-        </tr>
-        <tr>
-            <td><strong></td>
-            <td>중요한</td>
-        </tr>
-        <tr>
-            <td><em></td>
-            <td>강조</td>
-        </tr>
-        <tr>
-            <td><i></td>
-            <td>이탤릭으로 강조</td>
-        </tr>
-        <tr>
-            <td><small></td>
-            <td>작게</td>
-        </tr>
-        <tr>
-            <td><del></td>
-            <td>삭제선</td>
-        </tr>
-    </tbody>                
-</table>
+-----
+# 2일차
+-----
+# 3일차
+<a href = "대충 링크" target = "뭐시기">
 
      
